@@ -1,7 +1,7 @@
 # MiniBank
-OOPD Course Project
-Purpose: To make it easier to manage information about bank accounts by keeping record of all loans and deposits.
-Features:
+OOPD Course Project <br>
+Purpose: To make it easier to manage information about bank accounts by keeping record of all loans and deposits. <br>
+Features: <br>
 Account Management - Add/Delete Client accounts
 Separate Client and Admin Interfaces
 Register and View Complaints
