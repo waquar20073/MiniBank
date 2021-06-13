@@ -8,4 +8,3 @@ Register and View Complaints
 Request/Approve Loans
 View Non Performing Accounts
 OO design resulting from SRP, OCP, and LSP
-![image](https://user-images.githubusercontent.com/72221023/121815228-f4d7b180-cc92-11eb-8e0d-5db9124a2353.png)
