@@ -1,0 +1,2 @@
+# MiniBank
+OOPD Course Project
